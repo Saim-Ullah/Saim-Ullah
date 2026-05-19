@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Saim-Ullah
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning C++
+-  Hi, I’m @Saim-Ullah
+-  I’m interested in AI
+-  I’m currently learning C++
 
 <!---
 Saim-Ullah/Saim-Ullah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
