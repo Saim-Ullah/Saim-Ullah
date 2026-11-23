@@ -1,17 +1,21 @@
-# ![Saim Ullah — personal workbench. Small tools for everyday problems.](./assets/workbench.svg)
+<p align="center"><img src="assets/workbench.svg" alt="Abstract landscape banner" width="100%" /></p>
 
-I’m **Saim Ullah**. I’m learning **C++** and exploring my interest in **AI** through search: how does a search engine decide which note to put first?
+# Hi, I'm Saim Ullah 👋
 
-## Selected projects
+**Computer Science · Agentic AI · Automation · MERN Stack**
 
-**01 · [Paisa Ledger](https://github.com/Saim-Ullah/paisa-ledger)** · `C++17`  
-Where did my rupees go this month? Turn a CSV of expenses into a category breakdown and see how much of a budget remains. All amounts are counted in integer paisa.  
-[See the sample report →](https://github.com/Saim-Ullah/paisa-ledger#example-report)
+I build practical tools that turn ideas into useful workflows—from task-oriented agents and automation scripts to full-stack web applications. I enjoy learning by building, testing, and refining projects.
 
-**02 · [Margin](https://github.com/Saim-Ullah/margin-note-search)** · `JavaScript` · `Information retrieval`  
-Find a study note by what’s inside it, not what you named it. Margin ranks Markdown and text files in your browser with BM25. No account, API key or uploads.  
-[Try the sample shelf →](https://github.com/Saim-Ullah/margin-note-search#try-it) · [How ranking works →](https://github.com/Saim-Ullah/margin-note-search#how-it-ranks)
+### 🧠 Agentic AI
+**[Research Agent](https://github.com/Saim-Ullah/research-agent)** — a local, tool-using research assistant that searches a supplied knowledge base, plans steps and produces source-linked answers. No API key required.
 
-## Practice notebook
+### ⚙️ Automation
+**[Workflow Automation](https://github.com/Saim-Ullah/workflow-automation)** — validate and summarize recurring CSV data with clear error reports and repeatable command-line runs.
 
-[Circle-area calculator](https://github.com/Saim-Ullah/Programing-Fundametal-C/blob/HEAD/circle%20area) — a small C++ exercise in reading input, applying a formula and printing the result.
+### 🌐 MERN Stack
+**[MERN Taskboard](https://github.com/Saim-Ullah/mern-taskboard)** — a full-stack task manager built with MongoDB, Express, React and Node.js.
+
+### 🛠️ Toolkit
+`JavaScript` · `React` · `Node.js` · `Express` · `MongoDB` · `Python` · `Git` · `C++`
+
+> Building thoughtfully, one useful project at a time.
